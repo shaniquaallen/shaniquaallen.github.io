@@ -1,0 +1,66 @@
+.mainimage {
+display: block;
+margin-left: auto;
+margin-right: auto;
+border-radius: 50%;
+}
+
+h1 {
+font-family: 'Abril Fatface', cursive;
+font-family: 'Merriweather Sans', sans-serif;
+font-family: 'Poiret One', cursive;
+}
+
+.navbar { 
+font-family: 'Abril Fatface', cursive;
+font-family: 'Merriweather Sans', sans-serif;
+font-family: 'Poiret One', cursive;
+color: rgb(3, 3, 4);
+list-style-type: none;
+text-align: center;
+font-size: 17px;
+margin-top: -1px;
+}
+
+.navbar li {
+display: inline;
+padding-right: 50px ;
+}
+
+h3 {
+font-family: 'Abril Fatface', cursive;
+font-family: 'Merriweather Sans', sans-serif;
+font-family: 'Poiret One', cursive;
+text-align: center;
+}
+
+.firstparagraph {
+font-family: 'Coiny', cursive;
+text-align: center; 
+}
+
+.container {
+text-align: center;
+}
+.yogalist {
+font-family: 'Abril Fatface', cursive;
+font-family: 'Merriweather Sans', sans-serif;
+font-family: 'Poiret One', cursive;
+display: inline-block;
+text-align: left;
+}
+
+.copyright {
+font-family: 'Abril Fatface', cursive;
+font-family: 'Merriweather Sans', sans-serif;
+font-family: 'Poiret One', cursive;  
+font-size: 12px;   
+text-align: center;
+position: relative;
+top: 30px;
+padding-bottom: 30px;
+}
+
+.coloursection {
+background-color:rgb(244,244,244);
+}
